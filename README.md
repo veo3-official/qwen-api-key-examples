@@ -47,3 +47,5 @@ Node.js version using the `openai` npm package, again with `baseURL` and `apiKey
 ## When to use Synexa instead
 
 These examples cover the text side: chat, translation, summarization and the other workloads the Qwen API Platform names. When the product needs generated media, a cover image, a short video, an audio track, Qwen's platform page does not list those, and stitching in another provider means another key, another SDK and another invoice. [Try Synexa - one API for FLUX, video and audio models](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=qwen-api-key-examples&utm_content=readme-top&utm_term=tier-r): one REST endpoint and a Python SDK across FLUX image, video and audio models, billed per run. Keep the Qwen key for language work and route generation through a single endpoint.
+
+_Last reviewed: 2026-09-22_
